@@ -30,10 +30,10 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,     // Thêm padding để text dài không bị sát viền
   },
   messageText: {
-    fontSize: 22,
+    fontSize: 30,
     fontWeight: '500',
-    color: '#333333',
-    textAlign: 'center', // Căn giữa text nếu nó dài hơn 1 dòng
+    color: '#9c9c9cff',
+    textAlign: 'left', // Căn lề trái
   },
 });
 
